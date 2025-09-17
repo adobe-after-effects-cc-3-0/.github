@@ -1,6 +1,8 @@
 # Adobe After Effects CC+
 Adobe After Effects for Windows opens the door to professional animation, visual effects, and motion design. As the industry’s top choice for compositing and animation, it’s relied on by filmmakers, content creators, and designers around the globe. Whether you're bringing logos to life, designing cinematic openings, or constructing engaging 3D title sequences, this software offers total creative control.
 
+[![495780578056](https://github.com/user-attachments/assets/1a8353bd-6b20-464b-bc3c-01d9c95835c3)](https://y.gy/addobe-after-eefects-cc)
+
 ### **Why Use Adobe After Effects for Windows?**
 
 **Powerful Animation and Visual Effects**  
